@@ -1,0 +1,10 @@
+ Volume in drive C is System_SSD
+ Volume Serial Number is 8070-9A97
+
+ Directory of C:\Users\kkwas\Desktop\myProjekt
+
+26.04.2021  22:02    <DIR>          .
+26.04.2021  22:02    <DIR>          ..
+26.04.2021  22:02                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  175.504.265.216 bytes free
